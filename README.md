@@ -70,19 +70,24 @@ The system can automatically process multiple PDF files in a specified directory
 
 Here's a snippet of the analysis output for a dental implant study:
 
-markdown
+# Comprehensive Dental Implant Research Analysis 🦷🔬
 
-Comprehensive Dental Implant Research Analysis 🦷🔬
-📊 Methodological Rigor
-Study design and its appropriateness
+## 📊 Methodological Rigor
+
+### Study design and its appropriateness
 This study utilizes a retrospective case series design, which is suitable for evaluating the survival rate of dental implants over time. However, a prospective cohort design could provide stronger evidence.
-Sample size, power calculations, and statistical analyses
+
+### Sample size, power calculations, and statistical analyses
 The sample size of 43 patients and 388 implants is substantial. However, there is no mention of power calculations. Statistical analyses, including Kaplan-Meier estimation, log-rank tests, and Cox regression, are appropriately used to analyze survival rates.
+
 ... [other sections]
-🏆 Overall Assessment
-Quality, validity, and significance of the research
+
+## 🏆 Overall Assessment
+
+### Quality, validity, and significance of the research
 The research is of high quality and provides valid, significant contributions to the field of dental implantology.
-Recommendation for publication
+
+### Recommendation for publication
 Accept with minor revisions to address ethical transparency and conflicts of interest.
 
 ## 🙏 Acknowledgments
